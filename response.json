@@ -1,0 +1,8 @@
+{
+  "fever": "Fever is common. Drink water, rest, and take paracetamol. If it lasts long, consult a doctor.",
+  "cold": "Cold is usually viral. Stay warm, take steam, and use nasal drops or paracetamol.",
+  "headache": "Headaches may be due to stress or screen time. Rest and hydrate. If persistent, see a doctor.",
+  "cough": "Cough may be dry or wet. Use cough syrup, honey, or turmeric milk. Visit doctor if it worsens.",
+  "covid": "COVID-19 symptoms include cough, fever, fatigue, loss of smell. Take a test if unsure.",
+  "default": "Sorry, I couldn't understand. Please ask about symptoms like fever, cold, headache, or cough."
+}
